@@ -1,2 +1,13 @@
 oie...
 Tudo bem
+
+git init - criar repositório
+
+git remote add origin 'link do GitHub'
+
+git add .
+
+git commit -m "comentário"
+
+git push origin main - enviar 
+

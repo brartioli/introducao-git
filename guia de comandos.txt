@@ -11,3 +11,6 @@ git commit -m "comentário"
 
 git push origin main - enviar 
 
+*agora estamos na branch nova -
+
+git checkout -b dev
